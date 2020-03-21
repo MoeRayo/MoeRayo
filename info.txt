@@ -10,5 +10,5 @@ MoeRayo.
 My Tracks:
 Front End.
 
-Courses registered for:
+Courses Registered For:
 HTML, CSS, JavaScript.
